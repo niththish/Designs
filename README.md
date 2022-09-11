@@ -1,2 +1,2 @@
 # Designs
-This repository contains all my adobe xd designs related to web and android development.
+This repository contains all my design works related to web and android development.
